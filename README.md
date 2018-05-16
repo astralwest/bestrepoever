@@ -4,3 +4,4 @@ This is simply an example repository. The project is already in maintenance stag
 ## Resources
 Salesforce
 Chrome
+GitHub
